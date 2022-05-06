@@ -1,0 +1,38 @@
+.navbar{
+    background:  linear-gradient(to right, #a39fcd,  #FBFBFB, #2A00FF);
+    margin-bottom: 50px;
+}
+.bold{
+    font-weight: 900;
+    font-size: 1.1rem;
+}
+img{
+    width: 100%;
+}
+section{
+    margin: 100px 0px;
+}
+.btn{
+    border-radius: 90;
+    background-color: rgb(95, 95, 240);
+}
+.im{
+    width: 50%;
+    margin-bottom: 50px;
+}
+.serv{
+    background-image: linear-gradient(to bottom, #83bbfa, #afc9fc, #d0d9fc, #ebebfd, #ffffff);
+}
+
+.pad{
+    padding-top: 50px ;
+}
+.imgg{
+   padding-top: 20px;
+    
+}
+.h2{
+    padding-top: 50px;
+padding-bottom: 20px;
+font-size: 1.5rem;
+}
