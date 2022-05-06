@@ -39,6 +39,7 @@ font-size: 1.5rem;
 .bord{
     border: 3px solid gainsboro;
     padding-top: 10px;
+    height: 100%;
 }
 .bord>img{
     width: 50%;
@@ -47,5 +48,25 @@ font-size: 1.5rem;
     font-size: 1.5rem;
 }
 .cov{
-    background-image: url(covid-img.png);
+   border-radius: 2%;
+    background-image: linear-gradient(to right bottom, #ffffff, #cbc9d9, #9896b5, #666691, #323a6f);
 }
+ul{
+    list-style-image:url(list-img.png);
+}
+.hous2{
+    background-image: linear-gradient(to left top, #ffffff, #cec5f5, #9c8de8, #6756d8, #041dc6);
+border-radius: 2%;
+padding: 10px;
+}
+.down{
+  margin: 0;
+  padding: 20px;
+    background-image: radial-gradient(circle, #ffffff, #cec5f5, #9c8de8, #6756d8, #041dc6);
+}
+.downn>.row>.col-4>img{
+    width: 50%;
+    padding-top: 5%;
+    
+}
+
