@@ -36,3 +36,16 @@ section{
 padding-bottom: 20px;
 font-size: 1.5rem;
 }
+.bord{
+    border: 3px solid gainsboro;
+    padding-top: 10px;
+}
+.bord>img{
+    width: 50%;
+}
+.bord>h2{
+    font-size: 1.5rem;
+}
+.cov{
+    background-image: url(covid-img.png);
+}
