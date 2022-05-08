@@ -15,6 +15,7 @@ section{
 .btn{
     border-radius: 90;
     background-color: rgb(95, 95, 240);
+    color: white;
 }
 .im{
     width: 50%;
@@ -59,14 +60,16 @@ ul{
 border-radius: 2%;
 padding: 10px;
 }
-.down{
-  margin: 0;
-  padding: 20px;
-    background-image: radial-gradient(circle, #ffffff, #cec5f5, #9c8de8, #6756d8, #041dc6);
+footer{
+        margin-top: 50px;
+        padding: 30px 0;
+        color: #000000;
+        background: linear-gradient(to right, #3F37A0, #FBFBFB, #2A00FF);
+  }
+footer img{
+    width: 200px;
+   }
+.color{
+    color: white;
 }
-.downn>.row>.col-4>img{
-    width: 50%;
-    padding-top: 5%;
-    
-}
-
+  
